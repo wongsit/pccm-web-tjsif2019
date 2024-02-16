@@ -1,0 +1,27 @@
+แก้ไฟล์ index.php 
+- แยก tjssf2018.php ไปอยู่ page
+	- เพิ่ม brochure
+
+แก้ไฟล์ variable
+- Food restriction other เป็น others
+
+แก้ข้อความ (ไม่กระทบตัวแปร)
+- ไฟล์ register.php
+- ไฟล์ user_edit.php
+- ไฟล์ user_view.php
+
+15 Nov 2017
+แก้ไฟล์ howtojoin
+- เพิ่มปุ่ม
+
+16 Nov 20147
+แยกไฟ schedule.html ออกจาก index.php
+
+22 Nov 2017
+แก้ไข file tjssf2018.php 
+- เพิ่ม Brochure
+
+19 Dec 2017
+เพิ่ม download หน้า homeuser.php
+ลบฐานข้อมูล position หน้า register user_view user_edit
+แก้ไขระบบส่งเมล เป็น phpmailer
